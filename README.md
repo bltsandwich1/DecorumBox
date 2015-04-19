@@ -14,12 +14,15 @@ Board - [OlinuXIno - LIME2](https://www.olimex.com/Products/OLinuXino/A20/A20-OL
   - SATA connection
   - 2 x USB Hosts
   - 1 x USB OTG
+  - 
 Screen - [LCD-OLinuXino-10](https://www.olimex.com/Products/OLinuXino/LCD/LCD-OLinuXino-10/open-source-hardware)
 - 1024x600px 
 - 10 inch diagonal
 - 3.3V power consumption (Need to get wattage data)
+
 Battery - [TBD]()
 - Looking into battery options... ideal battery life >= 16hrs.
+
 Keyboard/Mouse -[Re-Wired bluetooth](http://www.aliexpress.com/item/Super-thin-BT8-Bluetooth-V3-0-Wireless-Keyboard-With-Touchpad-for-PC-Cell-Phone-iPhone-iPad/2048771377.html)
 - [Another Potential (USB-based) solution](http://www.aliexpress.com/item/ROLL-UP-USB-KEYBOARD-FLEXIBLE-FOLDABLE-WASHABLE-LAPTOP/493023961.html)
 - This issue is pretty big... there aren't any easy solutions for 
