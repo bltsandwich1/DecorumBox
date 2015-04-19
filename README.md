@@ -14,7 +14,7 @@ Board - [OlinuXIno - LIME2](https://www.olimex.com/Products/OLinuXino/A20/A20-OL
   - SATA connection
   - 2 x USB Hosts
   - 1 x USB OTG
-  - 
+
 Screen - [LCD-OLinuXino-10](https://www.olimex.com/Products/OLinuXino/LCD/LCD-OLinuXino-10/open-source-hardware)
 - 1024x600px 
 - 10 inch diagonal
